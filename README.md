@@ -51,4 +51,4 @@ Each folder contains:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AryaanRaza/<your-dsa-repo-name>.git
+https://github.com/AryaanRaza/DSA-in-C.git
