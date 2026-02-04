@@ -11,7 +11,6 @@ The goal of this repository is to **strengthen problem-solving skills, understan
 
 ---
 
-## Topics Covered 📚
 
 ## Topics Covered 📚
 
