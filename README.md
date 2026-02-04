@@ -46,7 +46,6 @@ Each folder contains:
 
 ---
 
-
 ## How to Run the Programs ▶️
 
 1. Clone the repository:
